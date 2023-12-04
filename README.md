@@ -1,16 +1,25 @@
-### Hi there 👋
+Привет! Меня зовут Вячеслав Костырка, я Python Developer.
 
-<!--
-**SoOZVyacheslav/SoOZVyacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В 2022 году решил сменить сферу деятельности и увлекся разработкой, всегда возился с компьютерами, писал скрипты, делал сайты, но это было в далеком прошлом. В сентябре 2023 года завершил курс по Python-backend в Яндекс Практикуме. Люблю интересные задачи, позновать что-то новое. Могу работать как в команде, так и в одиночку, нацелен на результат, соблюдаю дедлайны, так же могу работать без проблем удаленно.
 
-Here are some ideas to get you started:
+В настоящий момент продолжаю самообучение, активно ищу работу и рассматриваю предложения.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Сертификат](https://github.com/about_me/YP_2023.pdf)
+
+Контакты
+- Telegram: https://t.me/So_OZ
+- E-mail: slovek@mail.ru
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<a href="#"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+
+<a id='link1'></a>
+![](https://komarev.com/ghpvc/?username=SoOZVyacheslav&style=plastic&label=profile+views&color=orange)
