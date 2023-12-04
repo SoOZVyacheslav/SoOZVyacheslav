@@ -4,7 +4,7 @@
 
 В настоящий момент продолжаю самообучение, активно ищу работу и рассматриваю предложения.
 
-- [Сертификат](https://github.com/about_me/YP_2023.pdf)
+- [Сертификат](https://github.com/SoOZVyacheslav/SoOZVyacheslav/blob/main/YP_2023.pdf)
 
 Контакты
 - Telegram: https://t.me/So_OZ
